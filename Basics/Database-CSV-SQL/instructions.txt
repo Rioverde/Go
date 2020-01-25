@@ -1,0 +1,4 @@
+1. You create .db file.
+2. You connect to sqlite3 database and create table as well. On dbeaver (like create table and etc).
+3. You run the program
+4. (Optional) if you want to insert a data to a database, then you add data to .csv file

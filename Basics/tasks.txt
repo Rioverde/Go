@@ -1,0 +1,10 @@
+1. Create a login page on html/css, connect this page to a server.
+    * User submits login/password, server parses login/password, if it's correct then go to next step, if it's not send the error on html page
+    * Create an html/css page, with body {login successful}
+
+
+/login?login=abbas&password=12345
+
+server should parse x-www-form-urlencoded login/password
+
+use net/http library
